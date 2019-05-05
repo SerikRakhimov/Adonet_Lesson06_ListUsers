@@ -1,0 +1,51 @@
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\bin\Debug\Database.mdf
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\bin\Debug\Database_log.ldf
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\bin\Debug\ListUsers.exe.config
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\bin\Debug\ListUsers.exe
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\bin\Debug\ListUsers.pdb
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.FormListUsers.resources
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.exe
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\Database.mdf
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\Database_log.ldf
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\ListUsers.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\ListUsers.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\ListUsers.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.FormListUsers.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.Properties.Resources.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.GenerateResource.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.pdb
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\bin\Debug\Database.mdf
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\bin\Debug\Database_log.ldf
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\bin\Debug\ListUsers.exe.config
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\bin\Debug\ListUsers.exe
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\bin\Debug\ListUsers.pdb
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.FormListUsers.resources
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.exe
+C:\Users\РахимовС\source\repos\ListBoxProject\ListUsers\ListUsers\obj\Debug\ListUsers.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.FormUserUpdate.resources
+C:\Users\РахимовС\source\repos\ListUsers\ListUsers\obj\Debug\ListUsers.FormUserUpdate.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\Database.mdf
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\Database_log.ldf
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\ListUsers.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\ListUsers.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\bin\Debug\ListUsers.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.FormListUsers.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.FormUserUpdate.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\ListUsers\ListUsers\obj\Debug\ListUsers.pdb
